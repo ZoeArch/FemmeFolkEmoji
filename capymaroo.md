@@ -1,0 +1,1 @@
+# Original Capybara head icon from https://www.flaticon.com/free-icons/capybara

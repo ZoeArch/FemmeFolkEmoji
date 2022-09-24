@@ -28,3 +28,6 @@ A repository for all the emoji made for the Femme Folk Discord
 |   | [proudtransmaroo.png](emojis/proudtransmaroo.png)                     |Flag by Monica Helms|
 |   | [proudtransmascmaroo.png](emojis/proudtransmascmaroo.png)             |Flag by Pride-Flags|
 |   | [techragemaroo.png](emojis/techragemaroo.png)                         |Inspired by any windows user ever|
+|   | [proudomnisexualmaroo.png](emojis/proudomnisexualmaroo.png)]          |Flag by pastelmemer|
+|   | [bardmaroo.png](emojis/bardmaroo.png)                                 |Flag by Michael Page|
+|caapii| [capymaroo.png](emojis/capymaroo.png)                              |[Capybara icon](https://www.flaticon.com/free-icons/capybara)
