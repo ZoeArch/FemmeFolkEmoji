@@ -31,3 +31,5 @@ A repository for all the emoji made for the Femme Folk Discord
 |   | [proudomnisexualmaroo.png](emojis/proudomnisexualmaroo.png)]          |Flag by pastelmemer|
 |   | [bardmaroo.png](emojis/bardmaroo.png)                                 |Flag by Michael Page|
 |caapii| [capymaroo.png](emojis/capymaroo.png)                              |[Capybara icon](https://www.flaticon.com/free-icons/capybara)
+|photino| [femboyflag.png](emojis/femboyflag.png)                           | Flag by u/Hompulet|
+|   | [hear_femboy.png](emojis/heart_femboy.png)                            | Flag by u/Hompulet|
